@@ -8,7 +8,7 @@ I am a finance professional and founder building financial technology products w
 
 ## Selected work
 
-- ETF Pulse — premiums and discounts across 320+ NSE-listed ETFs: https://www.advisoira.com/etf-dashboard.html
+- ETF Pulse — premiums and discounts across 320+ NSE-listed ETFs: https://www.advisoira.com/etf-dashboard.html · [Product demo on X](https://x.com/partha0799/status/2045736652480594339)
 - Advisoira Mobile — investment-goal progress and monthly behaviour logging.
 - Client Snapshot — structured client information and financial-analysis inputs.
 - Advisoira Website — financial tools, risk assessment and newsletter: https://www.advisoira.com
