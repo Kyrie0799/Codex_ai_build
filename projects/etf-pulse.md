@@ -1,11 +1,15 @@
 # ETF Pulse — ETF Premium/Discount Tracker
 
-**Status:** Public product · [Live dashboard](https://www.advisoira.com/etf-dashboard.html)
+**Status:** Public product · [Live dashboard](https://www.advisoira.com/etf-dashboard.html) · [Product demo on X](https://x.com/partha0799/status/2045736652480594339)
 
 ETF Pulse is an Advisoira product designed to track premiums and discounts across **320+ NSE-listed ETFs** by comparing market prices with underlying NAV information.
 
 ## Why it matters
 An ETF's exchange-traded market price can differ from its net asset value (NAV). The tool brings this market-structure signal into one place so investors can inspect whether an ETF is trading at a premium or discount.
+
+## Recorded product demo
+
+[Watch the ETF Pulse product demo on X](https://x.com/partha0799/status/2045736652480594339)
 
 ## Demo walkthrough
 1. Open the live dashboard.
